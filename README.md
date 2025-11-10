@@ -19,3 +19,4 @@ Para rodar o redis
 ```
 docker run -p 6379:6379 -d --network=rede --name=redis redis
 ```
+
